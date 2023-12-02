@@ -1,0 +1,32 @@
+.wh1{
+    color: white;
+}
+.aaww{
+    text-decoration: underline;
+    color: white;
+}
+.pi{
+    color: white;
+}
+.aqq{
+    color: white;
+}
+.sgg{
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+}
+.sggs{
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(3,33.333333%);
+}
+
+
+.swee{
+    text-decoration: underline;
+    color: white;
+    position: fixed;
+    top: 3%;
+    left: 3%;
+}
