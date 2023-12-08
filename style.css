@@ -257,6 +257,10 @@ nav{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+.a12{
+    text-decoration: none;
+    color: white;
+}
 @media (max-width:750px){
     nav{
         position: fixed;

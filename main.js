@@ -37,6 +37,8 @@ function mode(){
    document.querySelector('#jj').style.color = "white"
    document.querySelector('.but55').style.color = "white"
    document.querySelector('.but55').style.backgroundColor = "black"
+   document.querySelector('.swee').style.color = 'black'
+   document.querySelector('.a12').style.color = 'black'
 
 
 
@@ -91,6 +93,8 @@ function mode1(){
     document.querySelector('#op').style.color = "black"
     document.querySelector('#jj').style.color = "black"
     document.querySelector('.img1').style.borderColor = 'white'
+    document.querySelector('.swee').style.color = 'white'
+   document.querySelector('.a12').style.color = 'white'
 
 
 }
